@@ -1,0 +1,57 @@
+{
+  "name": "velitporro",
+  "version": "1.0.0",
+  "description": "Skeet Framework Plugin - Solana Utils",
+  "main": "dist/index.js",
+  "types": "dist/src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacyntheErdman/velitporro.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Serverless",
+    "impedit",
+    "Web3js",
+    "molestiae",
+    "Blockchain",
+    "quasi",
+    "framework",
+    "sed"
+  ],
+  "author": "JaunitaSchaefer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JacyntheErdman/velitporro.git/issues"
+  },
+  "homepage": "https://github.com/JacyntheErdman/velitporro.git",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "3.1.0",
+    "@metaplex-foundation/umi": "0.8.9",
+    "@metaplex-foundation/umi-bundle-defaults": "0.8.9",
+    "@metaplex-foundation/umi-web3js-adapters": "0.8.9",
+    "@solana/spl-token": "0.3.8",
+    "@solana/web3.js": "1.78.7",
+    "node-fetch": "2.6.5"
+  },
+  "devDependencies": {
+    "@skeet-framework/discord-utils": "^0.2.13",
+    "@skeet-framework/utils": "^1.2.3",
+    "@types/jest": "29.5.5",
+    "@types/node": "20.8.2",
+    "@types/node-fetch": "2.6.9",
+    "babel-loader": "9.1.3",
+    "esbuild": "0.19.4",
+    "eslint": "8.50.0",
+    "eslint-config-prettier": "9.0.0",
+    "jest": "29.7.0",
+    "npm-check-updates": "16.14.5",
+    "prettier": "3.0.3",
+    "ts-jest": "29.1.1",
+    "ts-loader": "9.4.4",
+    "ts-node": "10.9.1",
+    "tsconfig-paths": "4.2.0",
+    "typedoc": "0.25.1",
+    "typescript": "5.2.2"
+  }
+}
